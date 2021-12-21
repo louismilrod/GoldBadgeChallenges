@@ -1,0 +1,11 @@
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\00_Junkyard\bin\Debug\00_Junkyard.exe.config
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\00_Junkyard\bin\Debug\00_Junkyard.exe
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\00_Junkyard\bin\Debug\00_Junkyard.pdb
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\00_Junkyard\bin\Debug\02_Komodo_Claims_Repository.dll
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\00_Junkyard\bin\Debug\02_Komodo_Claims_Repository.pdb
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\00_Junkyard\obj\Debug\00_Junkyard.csproj.AssemblyReference.cache
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\00_Junkyard\obj\Debug\00_Junkyard.csproj.SuggestedBindingRedirects.cache
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\00_Junkyard\obj\Debug\00_Junkyard.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\00_Junkyard\obj\Debug\00_Junkyard.csproj.CopyComplete
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\00_Junkyard\obj\Debug\00_Junkyard.exe
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\00_Junkyard\obj\Debug\00_Junkyard.pdb

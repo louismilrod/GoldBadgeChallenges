@@ -1,0 +1,11 @@
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan_UI'\bin\Debug\06_KomodoGreenPlan_UI'.exe.config
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan_UI'\bin\Debug\06_KomodoGreenPlan_UI'.exe
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan_UI'\bin\Debug\06_KomodoGreenPlan_UI'.pdb
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan_UI'\bin\Debug\06_KomodoClaims_Repository.dll
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan_UI'\bin\Debug\06_KomodoClaims_Repository.pdb
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan_UI'\obj\Debug\06_KomodoGreenPlan_UI.csproj.AssemblyReference.cache
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan_UI'\obj\Debug\06_KomodoGreenPlan_UI.csproj.SuggestedBindingRedirects.cache
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan_UI'\obj\Debug\06_KomodoGreenPlan_UI.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan_UI'\obj\Debug\06_KomodoGreenPlan_UI.csproj.CopyComplete
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan_UI'\obj\Debug\06_KomodoGreenPlan_UI'.exe
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\06_KomodoGreenPlan_UI'\obj\Debug\06_KomodoGreenPlan_UI'.pdb

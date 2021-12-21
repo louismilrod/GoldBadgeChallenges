@@ -1,0 +1,11 @@
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.UI\bin\Debug\01_KomodoCafe.UI.exe.config
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.UI\bin\Debug\01_KomodoCafe.UI.exe
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.UI\bin\Debug\01_KomodoCafe.UI.pdb
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.UI\bin\Debug\01_KomodoCafe.Repository.dll
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.UI\bin\Debug\01_KomodoCafe.Repository.pdb
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.UI\obj\Debug\01_KomodoCafe.UI.csproj.AssemblyReference.cache
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.UI\obj\Debug\01_KomodoCafe.UI.csproj.SuggestedBindingRedirects.cache
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.UI\obj\Debug\01_KomodoCafe.UI.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.UI\obj\Debug\01_KomodoCafe.UI.csproj.CopyComplete
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.UI\obj\Debug\01_KomodoCafe.UI.exe
+D:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.UI\obj\Debug\01_KomodoCafe.UI.pdb
