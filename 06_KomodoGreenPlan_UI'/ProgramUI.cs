@@ -28,7 +28,8 @@ namespace _06_KomodoGreenPlan_UI_
                     "1. Add A Brand New Car \n" +
                     "2. View All Existing Cars \n" +
                     "3. View Cars By Fuel Type \n" +
-                    "4. Delete Vehicle");
+                    "4. Delete Vehicle \n" +
+                    "5. Quit");
 
                 string userInput = ReadLine();
 
@@ -45,6 +46,9 @@ namespace _06_KomodoGreenPlan_UI_
                         break;
                     case "4":
                         RemoveCar();
+                        break;
+                    case "5":
+                        isRunning = false;
                         break;
                     default:
                         WriteLine("Invalid Selection");

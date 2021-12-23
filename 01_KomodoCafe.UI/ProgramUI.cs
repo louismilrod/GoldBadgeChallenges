@@ -32,7 +32,8 @@ namespace _01_KomodoCafe.UI
                 Console.WriteLine("Welcome to Komodo Cafe\n" +
                     "1. Add A Menu Item \n" +
                     "2. View All Menu Items \n" +
-                    "3. Delete Menu Item \n");
+                    "3. Delete Menu Item \n" +
+                    "4. Quit");
 
                 string userInput = ReadLine();
 
@@ -46,6 +47,9 @@ namespace _01_KomodoCafe.UI
                         break;
                     case "3":
                         RemoveMenuItems();
+                        break;
+                    case "4":
+                        isRunning = false;
                         break;
                     default:
                         WriteLine("Invalid Selection");

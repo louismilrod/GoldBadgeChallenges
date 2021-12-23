@@ -18,26 +18,11 @@ namespace _01_KomodoCafe.Repository
         Bread,
         Cheese
     
-    }
-
-    //public enum ComboNumber
-    //{
-    //    Big_Mac = 1,
-    //    Double_Quarter_Pounder = 2,
-    //    Big_Chicken = 3,
-    //    Hot_Ham_and_Cheese = 4,
-    //    Grilled_Cheese = 5    
-
-    //}
+    }    
 
     public class MenuItem
     {
-        //A meal number, so customers can say "I'll have the #5"
-        //A meal name
-        //A description
-        //A list of ingredients,
-        //A price
-
+        
         public MenuItem()
         {
 

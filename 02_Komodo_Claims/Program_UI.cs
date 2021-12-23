@@ -136,12 +136,5 @@ namespace _02_Komodo_Claims
             Claim claimThree = new Claim(3, Claim.ClaimType.Theft, "Stolen Pancakes", 4m, dateOfIncidentSeedThree, dateOfClaimSeedThree);
             _repo.EnterNewClaim(claimThree);
         }
-
-        //Do you want to deal with this claim now(y/n)? y
-        //When the agent presses 'y', the claim will be pulled off the top of the queue.If the agent presses 'n', it will go back to the main menu.
-
-
-
-
     }
 }
